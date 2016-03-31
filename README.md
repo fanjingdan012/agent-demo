@@ -1,0 +1,1 @@
+http://www.geekyarticles.com/2011/09/implementing-aspect-oriented.html?ref=dzone
